@@ -21,5 +21,9 @@ namespace Group_Project
         {
             pictureBox1.Visible = false;
         }
+         private void TextBox1_Click(object sender, EventArgs e)
+        {
+            TextBox1.text = "Does this work";
+        }
     }
 }
