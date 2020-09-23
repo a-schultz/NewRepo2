@@ -22,6 +22,7 @@ namespace Group_Project
             pictureBox1.Visible = false;
             // you can't afford a 3080 boss
             //I dont think you got the tools for that big man
+            //I wish I could 
         }
          private void TextBox1_Click(object sender, EventArgs e)
         {
