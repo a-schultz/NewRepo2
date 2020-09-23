@@ -20,6 +20,7 @@ namespace Group_Project
         private void button1_Click(object sender, EventArgs e)
         {
             pictureBox1.Visible = false;
+            // you can't afford a 3080 boss
         }
     }
 }
